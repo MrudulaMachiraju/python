@@ -17,4 +17,4 @@ i=b"hello"
 k=bytearray(5)
 h = memoryview(bytes(5))
 print(type(h))
-
+print("type of x is {}".format(type(x)))
